@@ -19,6 +19,7 @@ use ApiPlatform\Core\Metadata\Resource\ResourceNameCollection;
  * The first path you will see in the API.
  *
  * @author Amrouche Hamza <hamza.simperfit@gmail.com>
+ *
  */
 final class Entrypoint
 {
